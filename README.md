@@ -13,8 +13,8 @@
 - [2 黑盒测试](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/2-%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95.md)
 - [3 白盒测试-1](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/3-%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95-1.md)
 - [4 白盒测试-2](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/4-%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95-2.md)
-- [5 测试管理及工具]()
-- []()
+- [5 测试管理及工具](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/5-%E6%B5%8B%E8%AF%95%E7%AE%A1%E7%90%86%E5%8F%8A%E5%B7%A5%E5%85%B7.md)
+- [6 功能测试与性能测试]()
 - []()
 - []()
 
