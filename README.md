@@ -22,7 +22,7 @@
 
 ## 软件测试工具
 - TC：TestCenter，一款功能强大测试管理工具
-- AR：
-- PR：
+- AR：AutoRunner，一款自动化测试工具软件，适用于功能测试、回归测试、组合测试和大数据量测试。
+- PR：PerformanceRunner，一款性能测试工具软件。
 - fmeter：
 - 
