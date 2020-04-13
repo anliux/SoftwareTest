@@ -15,12 +15,13 @@
 - [4 白盒测试-2](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/4-%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95-2.md)
 - [5 测试管理及工具](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/5-%E6%B5%8B%E8%AF%95%E7%AE%A1%E7%90%86%E5%8F%8A%E5%B7%A5%E5%85%B7.md)
 - [6 功能测试与性能测试](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/6-%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E4%B8%8E%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95.md)
-- [7 单元测试]()
+- [7 单元测试](https://github.com/anliux/SoftwareTest/blob/master/intro/notes/7-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md)
 - []()
 
 
 
 ## 软件测试工具
+- [自动化测试原理与框架]()
 - TC：TestCenter，一款功能强大测试管理工具
 - AR：AutoRunner，一款自动化测试工具软件，适用于功能测试、回归测试、组合测试和大数据量测试。
 - PR：PerformanceRunner，一款性能测试工具软件。
