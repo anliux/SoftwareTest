@@ -28,3 +28,7 @@
 - CA：CodeAnalyzer，一款静态代码分析工具，可用于单元测试等的静态代码审查。
 - fmeter：开源的性能测试工具
 - selenium：web自动化测试工具
+
+
+## 测试类面试经验汇总
+- [博客园：面筋-测试常见问题合集](https://www.cnblogs.com/anliux/p/12565200.html)
