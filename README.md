@@ -26,7 +26,7 @@
 - AR：AutoRunner，一款自动化测试工具软件，适用于功能测试、回归测试、组合测试和大数据量测试。
 - PR：PerformanceRunner，一款性能测试工具软件。
 - CA：CodeAnalyzer，一款静态代码分析工具，可用于单元测试等的静态代码审查。
-- fmeter：开源的性能测试工具
+- jmeter：开源的性能测试工具
 - selenium：web自动化测试工具
 
 
